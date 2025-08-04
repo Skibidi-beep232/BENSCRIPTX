@@ -25,7 +25,7 @@ local Window = Rayfield:CreateWindow({
 
 -- Key System Selection --
 
-   KeySystem = True, -- Set this to true to use our key system
+   KeySystem = true, -- Set this to true to use our key system
    KeySettings = {
       Title = "Rob0x Hub Key",
       Subtitle = "RoKey System",
